@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AndroidParty</string>
+    <string name="img_desc">img_desc</string>
+    <string name="login_page_btn">Log in</string>
+    <string name="login_page_pass_hint">Password</string>
+    <string name="login_page_user_hint">Username</string>
+    <string name="warning_empty_fields">Fields must be not empty.</string>
+    <string name="incorrect_credentials">Username or password is incorrect.</string>
+    <string name="title_server">server</string>
+    <string name="title_distance">distance</string>
+    <string name="progress_text">Fetching the list…</string>
+    <string name="error_fetching_list">Unable to load the data. Please check your network connection and pull to refresh</string>
+</resources>
